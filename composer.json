@@ -1,7 +1,7 @@
 {
   "name": "prophet/apu-migrate",
   "license": "MIT",
-  "type": "project",
+  "type": "library",
   "authors": [
     {
       "name": "朱华",
